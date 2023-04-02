@@ -1,0 +1,8 @@
+com.api.Shoeswebsite
+com.api.Shoeswebsite.config
+com.api.Shoeswebsite.controller
+com.api.Shoeswebsite.exceptionHandler
+com.api.Shoeswebsite.model
+com.api.Shoeswebsite.repository
+com.api.Shoeswebsite.service
+com.api.Shoeswebsite.service.impl
